@@ -306,7 +306,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 If you have any questions or need help:
 
-- 📧 **Email**: [Your Email]
+- 📧 **Email**: imnik25@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/nikk2511/chat-to-pdf/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/nikk2511/chat-to-pdf/discussions)
 
